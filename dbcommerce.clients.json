@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65c0ba13641178b51d131ae4"
+  },
+  "name": "SANCHEZ",
+  "ville": "Seattle"
+},
+{
+  "_id": {
+    "$oid": "65c0ba64641178b51d131ae5"
+  },
+  "name": "SMITH",
+  "ville": "Seattle"
+},
+{
+  "_id": {
+    "$oid": "65c0ba76641178b51d131ae6"
+  },
+  "name": "GRIFFIN",
+  "ville": "Quahog"
+}]
